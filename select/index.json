@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "first song(at the terminal)",
+  "base_artist": "cinema staff",
+  "createdAt": "2026-04-01T02:20:36.327549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "First Song (At The Terminal)",
+      "artist": "cinema staff",
+      "has_synced": true,
+      "path": "select/01_First_Song_(At_The_Terminal)_cinema_staff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "first song(at the terminal)",
+      "artist": "cinema staff",
+      "has_synced": false,
+      "path": "select/pl_01_first_song(at_the_terminal)_cinema_staff.txt"
+    }
+  ]
+}
